@@ -48,18 +48,16 @@ Built using Python and Streamlit for fast and simple local execution.
 ![Home](Screenshot (10).png)
 
 📊 Result Output  
-![Output](output.pdf)
+![Output] (output.pdf)
 
 ---
 
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/ayesha8087/ai-resume-matcher
-
-##  🎯 Goal
-
-To help job seekers quickly analyze their resume against job descriptions using AI-style keyword matching.
+git clone https://github.com/your-username/ai-resume-matcher
 cd ai-resume-matcher
+pip install -r requirements.txt
+streamlit run app.py
 pip install -r requirements.txt
 streamlit run app.py
