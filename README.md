@@ -45,10 +45,10 @@ Built using Python and Streamlit for fast and simple local execution.
 ## 📸 Screenshots
 
 🏠 Home Interface  
-![Home](Screenshot (10).png)
+![Home](Screenshot (12).png)
 
 📊 Result Output  
-![Output] (output.pdf)
+![Output](Screenshot (13).png) (Screenshot (14).png)
 
 ---
 
@@ -59,5 +59,4 @@ git clone https://github.com/your-username/ai-resume-matcher
 cd ai-resume-matcher
 pip install -r requirements.txt
 streamlit run app.py
-pip install -r requirements.txt
-streamlit run app.py
+
