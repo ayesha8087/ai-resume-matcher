@@ -52,6 +52,23 @@ Built using Python and Streamlit for fast and simple local execution.
 
 ---
 
+## 🔮 Future Improvements
+
+* 🤖 Advanced AI-based Resume Analysis
+* 📊 Better ATS Compatibility Scoring
+* 🧠 Semantic Skill Matching using Embeddings
+* 📄 Support for DOCX Resume Uploads
+* 🌍 Multi-language Resume Support
+* 🎯 Personalized Resume Improvement Suggestions
+* 💼 Job Recommendation Integration
+* ☁️ Cloud Deployment Support
+* 🔐 User Authentication System
+* 🎨 Enhanced UI/UX Design
+* 📈 Analytics Dashboard for Resume Performance
+* 🗂️ Resume History Saving Feature
+
+---
+
 ## ⚙️ Installation
 
 ```bash
@@ -59,4 +76,3 @@ git clone https://github.com/your-username/ai-resume-matcher
 cd ai-resume-matcher
 pip install -r requirements.txt
 streamlit run app.py
-
